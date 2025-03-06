@@ -1,24 +1,24 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
-  "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "TRAIN_NO": "16595",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "08/03/2025",
+  "SOURCE_STATION": "KSR",
+  "BOARDING_STATION": "KSR",
+  "DESTINATION_STATION": "MRDW",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "8072313437@ptyes",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "YOGESH P",
+      "AGE": 21,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "PAVITHRA B",
+      "AGE": 22,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
